@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailcender",
+        "uuid": 12038768,
+        "checksum": "392u8k"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
